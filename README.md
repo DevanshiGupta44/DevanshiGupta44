@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello! I'm Devanshi Gupta 💫
 🔭 I’m currently working on web development projects and UI/UX case study.<br>👯 I’m looking to collaborate on full-stack projects.<br>🌱 I’m currently learning DSA and working on my problem-solving skills.<br>💬 Ask me about DSA, web development, UI/UX.<br>⚡ Fun fact about me I love food.
 
 
